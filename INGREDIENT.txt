@@ -1,0 +1,12 @@
+CREATE DATABASE meal;
+
+use meal;
+
+CREATE TABLE ingredient(
+name varchar(50),
+price double,
+calories INT
+);
+
+
+
