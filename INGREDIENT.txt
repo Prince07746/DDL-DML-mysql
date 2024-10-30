@@ -3,9 +3,9 @@ CREATE DATABASE meal;
 use meal;
 
 CREATE TABLE ingredient(
-name varchar(50),
-price double,
-calories INT
+name varchar(50) NOT NULL,
+price double(10,2) NOT NULL,
+calories INT NOT NULL
 );
 
 
