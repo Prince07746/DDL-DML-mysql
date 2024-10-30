@@ -13,6 +13,18 @@ CREATE , ALTER ,TRUNCATE
 ![image](https://github.com/user-attachments/assets/0f1e5f8c-0064-4592-b8d2-854e711dadb8)
 ![image](https://github.com/user-attachments/assets/c65ab6e9-ea43-4179-bcff-667cd64d58d1)
 ![image](https://github.com/user-attachments/assets/233f6aa9-876e-4d8f-9cfe-535814dadc33)
+![image](https://github.com/user-attachments/assets/32293cd5-29ee-4b28-b6f6-ef14f02554a1)
+![image](https://github.com/user-attachments/assets/3c7eab99-e889-4e33-be21-07155c6cae98)
+![image](https://github.com/user-attachments/assets/7a6d9a1f-3cfd-4dec-8512-c9c6080b6756)
+![image](https://github.com/user-attachments/assets/f0ada892-3c7a-42b8-b2e4-beffa5180309)
+![image](https://github.com/user-attachments/assets/e37427db-16fb-494a-b6dc-7c7b77a057f9)
+![image](https://github.com/user-attachments/assets/ed657d0e-543b-4004-8e94-d341e5410581)
+
+
+
+
+
+
 
 
 
