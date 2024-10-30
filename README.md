@@ -20,6 +20,18 @@ CREATE , ALTER ,TRUNCATE
 ![image](https://github.com/user-attachments/assets/e37427db-16fb-494a-b6dc-7c7b77a057f9)
 ![image](https://github.com/user-attachments/assets/ed657d0e-543b-4004-8e94-d341e5410581)
 
+# DML
+Data Manipulation Language (DML) in SQL is used to manage and manipulate data within tables. The most common DML commands are SELECT, INSERT, UPDATE, and DELETE
+![image](https://github.com/user-attachments/assets/b31f89f3-9920-446c-9fe8-7f66fc0e446f)
+![image](https://github.com/user-attachments/assets/4076c005-0a90-4dac-864a-85ce99e0e534)
+![image](https://github.com/user-attachments/assets/a21e2228-d8f9-4a9b-b2d9-456e62911d78)
+![image](https://github.com/user-attachments/assets/23e7c00c-097c-44e5-ac2f-9b564d4cb869)
+![image](https://github.com/user-attachments/assets/a15cd488-8103-4003-b0b4-dcd82c2a50af)
+
+
+
+
+
 
 
 
